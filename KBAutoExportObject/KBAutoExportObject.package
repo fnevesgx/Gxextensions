@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Package xmlns="http://schemas.genexus.com/addin/v1.0" id="1B14AAF0-1B74-46CF-BF83-4EC0FAE65A53" name="KBAutoExportObject">  
+  <!--
+	Resources may contain images and strings.
+	Commands are translated using strings in the resources when
+	there is a resource string with the same name as a command id
+	
+	<Resources>
+		<Resource type="strings" name="F7S.Packages.KBAutoExportObject.Resources"/>
+	</Resources>
+  
+	<KBAutoExportObjects>
+		<KBAutoExportObject id='3C3DEAE0-66DD-48bd-866D-463C4075385A' title='KBAutoExportObjectTitle' location='right'/>
+	</KBAutoExportObjects>
+  -->
+</Package>
